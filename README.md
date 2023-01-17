@@ -4,7 +4,7 @@
 **ilyaio/ilyaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#102f82&lines=I'm+Ilya Ivanov.)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=6E92F7&width=435&lines=Hi!+I'm+Ilya+Ivanov)](https://git.io/typing-svg)
 
 _Contact me: tg @uni_iio
 
