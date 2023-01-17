@@ -36,7 +36,7 @@ _Contact me: tg @uni_iio
 <summary>For more details click below</summary>
 You can create your diary, read others', follow authors and enjoy there publications on subscription page.
 
-<a href="http://github.com/JuliaBars/hw05_final">Yatube on git</a>
+<a href="http://github.com/ilyaio">Yatube on git</a>
 ![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
 </details>
 </p>
@@ -49,7 +49,7 @@ You can create your diary, read others', follow authors and enjoy there publicat
 This is my first team project, where I was a teamlead.
 Here you can add your review to any book, rate it, cooment others' reviews.
 
-<a href="https://github.com/JuliaBars/api_yamdb">Shelter bot on git</a>
+<a href="https://github.com/ilyaio/api_yamdb">Shelter bot on git</a>
 </details>
 </p>
 
