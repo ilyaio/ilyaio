@@ -23,6 +23,8 @@ _Contact me: tg @uni_iio
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![TelegramBot](https://img.shields.io/badge/Telegram-BOT-005571?&style=for-the-badge&logo=telegram)
+![Aiogram](https://img.shields.io/badge/Aiogram-005571?&style=for-the-badge&logo=telegram)
 
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
