@@ -6,7 +6,7 @@
 -->
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=6E92F7&width=435&lines=Hi!+I'm+Ilya+Ivanov)](https://git.io/typing-svg)
 
-_Contact me: tg @uni_iio
+Contact me: tg @uni_iio
 
 <h3><span style="color: ##102f82"> My stack will increase, but now it's as follow:</span></h3>
 
